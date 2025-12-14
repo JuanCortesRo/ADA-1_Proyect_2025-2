@@ -9,11 +9,23 @@ Archivo: main.py
 
 Diciembre 2025
 """
-from first_solution import ejecutar_prueba_desde_input
+import sys
+import os
 
-print("PROYECTO: ASOCIACIÓN DE DEPORTES \nJuan José Cortés Rodríguez - 2325109")
-ejecutar_prueba_desde_input("inputs/input1.py")
-ejecutar_prueba_desde_input("inputs/input2.py")
-ejecutar_prueba_desde_input("inputs/input3.py")
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'First Solution'))
 
-#ejecutar_prueba()
+from processor import procesar_todos_los_inputs
+
+print("=" * 70)
+print("PROYECTO: ASOCIACIÓN DE DEPORTES")
+print("Juan José Cortés Rodríguez - 2325109")
+print("Primera Solución - Árboles Rojinegros")
+print("=" * 70)
+
+# Procesar todos los archivos input*.py y generar output*.txt
+procesar_todos_los_inputs(
+    carpeta_inputs=os.path.join(os.path.dirname(__file__), "inputs"),
+    carpeta_outputs=os.path.join(os.path.dirname(__file__), "First Solution", "outputs")
+)
+
+print("\n✅ Todas las pruebas completadas exitosamente")

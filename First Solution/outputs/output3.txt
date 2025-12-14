@@ -1,0 +1,72 @@
+
+Sede Medellin, Rendimiento: 280.28333333333336
+
+Basketball, Rendimiento: 37.0
+{60, 6, 22, 29}
+
+Volleyball, Rendimiento: 50.333333333333336
+{13, 31, 41}
+
+Natacion, Rendimiento: 58.2
+{23, 5, 34, 44, 56}
+
+Futbol, Rendimiento: 66.5
+{7, 30, 45, 42}
+
+Tenis, Rendimiento: 68.25
+{43, 35, 14, 55}
+
+Sede Cali, Rendimiento: 290.75
+
+Futbol, Rendimiento: 49.0
+{2, 40, 16, 49}
+
+Volleyball, Rendimiento: 58.0
+{26, 50, 18, 38, 17, 51, 9}
+
+Basketball, Rendimiento: 59.75
+{54, 39, 27, 1}
+
+Natacion, Rendimiento: 60.25
+{15, 20, 59, 37}
+
+Tenis, Rendimiento: 63.75
+{33, 10, 48, 19}
+
+Sede Bogota, Rendimiento: 292.1666666666667
+
+Natacion, Rendimiento: 48.666666666666664
+{3, 36, 47}
+
+Volleyball, Rendimiento: 53.0
+{52, 21, 4}
+
+Basketball, Rendimiento: 60.0
+{46, 53, 11}
+
+Futbol, Rendimiento: 65.0
+{58, 32, 25, 8}
+
+Tenis, Rendimiento: 65.5
+{24, 57, 28, 12}
+
+
+Ranking Jugadores:
+{60, 58, 52, 23, 3, 2, 15, 26, 46, 7, 50, 24, 40, 6, 22, 13, 54, 18, 31, 43, 38, 29, 33, 5, 20, 53, 10, 36, 30, 35, 41, 57, 39, 16, 27, 49, 48, 1, 21, 34, 44, 17, 47, 32, 59, 37, 19, 4, 51, 14, 28, 12, 45, 56, 25, 42, 55, 8, 11, 9}
+
+Equipo con mayor rendimiento: Tenis Sede Medellin
+
+Equipo con menor rendimiento: Basketball Sede Medellin
+
+Jugador con mayor rendimiento: { 9 , Isabella Diaz , 92 }
+
+Jugador con menor rendimiento: { 60 , Diana Herrera , 11 }
+
+jugador mas joven: { 10 , Daniel Ruiz , 17 }
+
+jugador mas veterano: { 50 , Patricia Guzman , 42 }
+
+Promedio de edad de los jugadores: 25.80
+
+Promedio de rendimiento de los jugadores: 57.88
+

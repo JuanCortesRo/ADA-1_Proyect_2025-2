@@ -1,0 +1,43 @@
+
+Sede Cali, Rendimiento: 165.75
+
+Futbol, Rendimiento: 40.5
+{2, 10}
+
+Basketball, Rendimiento: 54.75
+{15, 13, 16, 14}
+
+Volleyball, Rendimiento: 70.5
+{6, 1, 12, 9}
+
+Sede Medellin, Rendimiento: 183.41666666666666
+
+Volleyball, Rendimiento: 49.333333333333336
+{3, 5, 4}
+
+Basketball, Rendimiento: 62.75
+{18, 20, 17, 19}
+
+Futbol, Rendimiento: 71.33333333333333
+{7, 8, 11}
+
+
+Ranking Jugadores:
+{3, 2, 15, 7, 6, 13, 18, 5, 20, 10, 16, 1, 17, 19, 4, 14, 12, 8, 11, 9}
+
+Equipo con mayor rendimiento: Futbol Sede Medellin
+
+Equipo con menor rendimiento: Futbol Sede Cali
+
+Jugador con mayor rendimiento: { 9 , Isabella Diaz , 92 }
+
+Jugador con menor rendimiento: { 3 , Valentina Rodriguez , 15 }
+
+jugador mas joven: { 10 , Daniel Ruiz , 17 }
+
+jugador mas veterano: { 9 , Isabella Diaz , 40 }
+
+Promedio de edad de los jugadores: 24.55
+
+Promedio de rendimiento de los jugadores: 59.75
+
