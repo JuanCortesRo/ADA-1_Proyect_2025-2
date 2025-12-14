@@ -13,4 +13,7 @@ from first_solution import ejecutar_prueba_desde_input
 
 print("PROYECTO: ASOCIACIÓN DE DEPORTES \nJuan José Cortés Rodríguez - 2325109")
 ejecutar_prueba_desde_input("inputs/input1.py")
+ejecutar_prueba_desde_input("inputs/input2.py")
+ejecutar_prueba_desde_input("inputs/input3.py")
+
 #ejecutar_prueba()
