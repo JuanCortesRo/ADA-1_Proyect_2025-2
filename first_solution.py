@@ -369,6 +369,21 @@ def encontrar_jugador_mas_joven_veterano(jugadores_data):
     
     return mas_joven, mas_veterano
 
+def calcular_promedio_edad_rendimiento(jugadores_data):
+    """
+    Calcula el promedio de edad y rendimiento de todos los jugadores.
+    """
+    if not jugadores_data:
+        return 0, 0
+    
+    suma_edades = sum(j['edad'] for j in jugadores_data)
+    suma_rendimientos = sum(j['rendimiento'] for j in jugadores_data)
+    total = len(jugadores_data)
+    
+    promedio_edad = suma_edades / total
+    promedio_rendimiento = suma_rendimientos / total
+    
+    return promedio_edad, promedio_rendimiento
 
 def imprimir_estadisticas (jugadores_data, sedes_ordenadas, ranking_jugadores):
     """
@@ -395,6 +410,11 @@ def imprimir_estadisticas (jugadores_data, sedes_ordenadas, ranking_jugadores):
     if mas_veterano:
         print(f"\njugador mas veterano: {{ {mas_veterano['id']} , {mas_veterano['nombre']} , {mas_veterano['edad']} }}")
     
+    # Promedios
+    prom_edad, prom_rend = calcular_promedio_edad_rendimiento(jugadores_data)
+    print(f"\nPromedio de edad de los jugadores: {prom_edad:.2f}")
+    print(f"\nPromedio de rendimiento de los jugadores: {prom_rend:.2f}")
+
 # ========================================================================================
 # FUNCIONES AUXILIARES
 # ========================================================================================
