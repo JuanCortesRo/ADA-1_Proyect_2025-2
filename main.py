@@ -9,7 +9,8 @@ Archivo: main.py
 
 Diciembre 2025
 """
-from first_solution import ejecutar_prueba
+from first_solution import ejecutar_prueba_desde_input
 
 print("PROYECTO: ASOCIACIÓN DE DEPORTES \nJuan José Cortés Rodríguez - 2325109\n")
-ejecutar_prueba()
+ejecutar_prueba_desde_input("inputs/input1.py")
+#ejecutar_prueba()
