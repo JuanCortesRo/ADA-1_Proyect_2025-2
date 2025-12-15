@@ -36,6 +36,13 @@ Segunda solución utilizando **Merge Sort + Insertion Sort**:
 - **`processor_second.py`**: Procesador que ejecuta la segunda solución y genera los archivos de salida.
 - **`outputs/`**: Carpeta donde se generan los archivos de salida (output0.txt, output1.txt, etc.)
 
+
+### **Carpeta: `output-comparison-tools/`**
+Esta carpeta se añadió para cumplir con los requisitos del informe. Contiene herramientas para analizar y comparar el rendimiento de ambas soluciones:
+- **`benchmark.py`**: Mide los tiempos de ejecución de ambas soluciones con diferentes tamaños de entrada.
+- **`generate_graphs.py`**: Genera visualizaciones basadas en los resultados de las pruebas comparativas.
+- **`benchmark_results.csv`**: Contiene los resultados de las pruebas comparativas pregenerados que se utilizan en el informe.
+- **`README.md`**: Instrucciones para usar las herramientas. **(IMPORTANTE)**
 ---
 
 ## Instrucciones de Ejecución
