@@ -294,6 +294,7 @@ def crear_sede(nombre_sede, jugadores_dict, equipos_data):
     }
 
 # Función de prueba antes de usar las input
+# Esta funcion me sirvió para ir probando la implementación antes de utilizar los inputs...
 def prueba():
     # Datos de prueba del enunciado
     jugadores_data = [
