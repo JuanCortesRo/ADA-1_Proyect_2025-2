@@ -75,7 +75,7 @@ def procesar_archivo(path_input, path_output=None):
     try:
         #resultados de las sedes y equipos ordenados
         for sede in sedes_ordenadas:
-            print(f"\n{sede.nombre}, Rendimiento: {sede.promedio_rendimiento}")
+            print(f"\n\n{sede.nombre}, Rendimiento: {sede.promedio_rendimiento}")
             
             equipos_ordenados = []
             sede.arbol_equipos.recorrido_inorden(sede.arbol_equipos.raiz, equipos_ordenados)

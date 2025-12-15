@@ -1,4 +1,5 @@
 
+
 Sede Medellin, Rendimiento: 280.28333333333336
 
 Basketball, Rendimiento: 37.0
@@ -16,6 +17,7 @@ Futbol, Rendimiento: 66.5
 Tenis, Rendimiento: 68.25
 {43, 35, 14, 55}
 
+
 Sede Cali, Rendimiento: 290.75
 
 Futbol, Rendimiento: 49.0
@@ -32,6 +34,7 @@ Natacion, Rendimiento: 60.25
 
 Tenis, Rendimiento: 63.75
 {33, 10, 48, 19}
+
 
 Sede Bogota, Rendimiento: 292.1666666666667
 
