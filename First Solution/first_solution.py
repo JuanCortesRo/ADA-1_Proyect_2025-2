@@ -11,8 +11,6 @@ Archivo: first_solution.py
 Diciembre 2025
 """
 
-from loader import cargar_desde_archivo
-
 # ========================================================================================
 # CLASES BASE 
 # Estas se utilizarán para construir los árboles rojinegros específicos de cada caso
