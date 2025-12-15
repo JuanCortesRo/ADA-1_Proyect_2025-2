@@ -291,7 +291,9 @@ def ejecutar_benchmarks():
             print(f"La segunda solución es {diferencia_pct:.2f}% más rápida")
     
     # Guardar resultados
-    with open("benchmark_results.csv", "w", encoding='utf-8') as f:
+    output_dir = os.path.dirname(__file__) 
+    output_file = os.path.join(output_dir, "benchmark_results.csv")
+    with open(output_file, "w", encoding='utf-8') as f:
         f.write("n,tiempo_primera_ms,tiempo_segunda_ms\n")
         for r in resultados:
             f.write(f"{r['n']},{r['primera']*1000},{r['segunda']*1000}\n")
