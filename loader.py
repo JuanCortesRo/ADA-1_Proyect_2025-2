@@ -1,3 +1,16 @@
+"""
+Nombre: Juan José Cortés Rodríguez
+Codigo: 2325109
+Materia: Analísis y Diseño de Algoritmos I
+
+Problema: Asociación de Deportes 
+Archivo: loader.py
+Descripción: Carga los datos de jugadores, equipos y sedes desde archivos .py 
+y los convierte en estructuras de datos para ser procesados por ambas soluciones.
+
+Diciembre 2025
+"""
+
 from classes import Jugador, Equipo, Sede
 
 def cargar_desde_archivo(path):

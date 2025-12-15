@@ -3,9 +3,10 @@ Nombre: Juan José Cortés Rodríguez
 Codigo: 2325109
 Materia: Analísis y Diseño de Algoritmos I
 
-PROCESADOR - PRIMER SOLUCIÓN
-Maneja la ejecución de pruebas y escritura de salidas a archivos
-Archivo: processor.py
+Problema: Asociación de Deportes 
+Archivo: processor_first.py
+Descripción: Procesador de la primera solución que maneja la carga de datos,
+ejecución de algoritmos con Árboles Rojinegros y generación de archivos de salida.
 
 Diciembre 2025
 """

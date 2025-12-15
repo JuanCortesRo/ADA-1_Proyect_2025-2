@@ -5,9 +5,13 @@ Materia: Analísis y Diseño de Algoritmos I
 
 Problema: Asociación de Deportes 
 Archivo: main.py
+Descripción: Archivo principal que ejecuta ambas soluciones del proyecto
+(Árboles Rojinegros y Merge Sort + Insertion Sort) y llama las funciones 
+para procesar los datos y generar los resultados.
 
 Diciembre 2025
 """
+
 import sys
 import os
 

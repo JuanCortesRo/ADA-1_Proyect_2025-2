@@ -3,10 +3,10 @@ Nombre: Juan José Cortés Rodríguez
 Codigo: 2325109
 Materia: Analísis y Diseño de Algoritmos I
 
-PRIMERA SOLUCIÓN
 Problema: Asociación de Deportes 
-Estructura de datos utilizada: Arboles Rojinegros
 Archivo: first_solution.py
+Descripción: Desarrollo de la Primera solución utilizando Árboles Rojinegros 
+para ordenar jugadores, equipos y sedes según los criterios del enunciado.
 
 Diciembre 2025
 """

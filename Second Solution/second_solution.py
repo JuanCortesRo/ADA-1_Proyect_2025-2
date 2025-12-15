@@ -3,10 +3,10 @@ Nombre: Juan José Cortés Rodríguez
 Codigo: 2325109
 Materia: Analísis y Diseño de Algoritmos I
 
-SEGUNDA SOLUCIÓN
 Problema: Asociación de Deportes 
-Estructura de datos utilizada: Listas nativas + Merge Sort + Insertion Sort
 Archivo: second_solution.py
+Descripción: Desarrollo de la Segunda solución utilizando Merge Sort para 
+jugadores e Insertion Sort para equipos y sedes según los criterios del enunciado.
 
 Diciembre 2025
 """
